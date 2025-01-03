@@ -1,0 +1,14 @@
+{
+  "copy_right": "{year} Copyright. Policy.",
+  "label": {
+    "address": "Address",
+    "address_1": "Valletta Buildings, South Street, Valletta - VLT 1103 Malta, US",
+    "address_2": "20 Phan Dang Luu street, Hai Chau District, Danang city, Vietnam",
+    "phone": "(+1) 555-0108-000 or (+236) 555-0108",
+    "subscribe": "Subscribe",
+    "note": "Subscribe to our newsletter and be the first to know about our updates"
+  },
+  "placeholder": {
+    "email": "Enter your email"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "label": {
+    "getting_ready": "We're Getting Ready",
+    "note": "We will back to something amazing. Getting the lastest updates about our games. Please sign up to our newsletter.",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds"
+  },
+  "placeholder": {
+    "email": "Enter your email"
+  }
+}

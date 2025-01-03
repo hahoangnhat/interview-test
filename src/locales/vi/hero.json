@@ -1,13 +1,13 @@
 {
   "label": {
-    "getting_ready": "Chúng tôi đang sẵn sàng",
-    "note": "Chúng tôi sẽ quay trở lại với một cái gì đó tuyệt vời. Nhận thông tin cập nhật mới nhất về trò chơi của chúng tôi. Vui lòng đăng ký nhận bản tin của chúng tôi.",
+    "getting_ready": "Trò chơi sắp ra mắt",
+    "note": "Chúng tôi sẽ trở lại với một điều tuyệt vời. Để nhận các bản cập nhật mới nhất về trò chơi, vui lòng đăng ký nhận bản tin của chúng tôi.",
     "days": "Ngày",
     "hours": "Giờ",
     "minutes": "Biên bản",
     "seconds": "Giây"
   },
   "placeholder": {
-    "email": "Nhập email của bạn"
+    "email": "Địa chỉ email của bạn"
   }
 }

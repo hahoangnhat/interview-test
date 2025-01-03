@@ -1,0 +1,14 @@
+{
+  "copy_right": "{year} Bản quyền. Chính sách.",
+  "label": {
+    "address": "Địa chỉ",
+    "address_1": "Tòa nhà Valletta, South Street, Valletta - VLT 1103 Malta, Hoa Kỳ",
+    "address_2": "20 Phan Đăng Lưu, Quận Hải Châu, thành phố Đà Nẵng, Việt Nam",
+    "phone": "(+1) 555-0108-000 hoặc (+236) 555-0108",
+    "subscribe": "Đăng ký",
+    "note": "Đăng ký nhận bản tin của chúng tôi và là người đầu tiên biết về các bản cập nhật của chúng tôi"
+  },
+  "placeholder": {
+    "email": "Nhập email của bạn"
+  }
+}
